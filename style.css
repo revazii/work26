@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.brbr{
+    height: 240px;
+}
+
+@media only screen and (max-width: 768px) {
+    .amam {
+      display: flex;
+      flex-direction: column;
+      gap: 30px;
+      
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    .brbr {
+      height: ;
+    }
+  }
